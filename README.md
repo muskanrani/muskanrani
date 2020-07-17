@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <!--
 **muskanrani/muskanrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
