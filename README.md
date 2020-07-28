@@ -1,6 +1,11 @@
-<center>
- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="400" height="400">
- </center>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="400" height="400">
+<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
+<a href="https://www.hackerrank.com/Muskan_Rani">
+      <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
+</br>
+<a href="https://www.linkedin.com/in/muskan-rani-980553188/">
+  <img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="10%" ; width="15%" ;></img></a>
+
 <!--
 **muskanrani/muskanrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
