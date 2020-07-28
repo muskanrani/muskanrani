@@ -1,5 +1,6 @@
-
+<center>
  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="400" height="400">
+ </center>
 <!--
 **muskanrani/muskanrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
