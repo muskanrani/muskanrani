@@ -7,26 +7,6 @@
 <a href="https://www.linkedin.com/in/muskan-rani-980553188/">
   <img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="10%" ; width="15%" ;></img></a>
 
-<!--
-**muskanrani/muskanrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-```
-  _   _                             _                         
- | \ | | _____   _____ _ __    __ _(_)_   _____   _   _ _ __  
- |  \| |/ _ \ \ / / _ \ '__|  / _` | \ \ / / _ \ | | | | '_ \ 
- | |\  |  __/\ V /  __/ |    | (_| | |\ V /  __/ | |_| | |_) |
- |_| \_|\___| \_/ \___|_|     \__, |_| \_/ \___|  \__,_| .__/ 
-                              |___/                    |_|    
-```
+<a href="https://github.com/muskanrani/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact" />
+</a>
