@@ -1,5 +1,5 @@
 <img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="10%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="35%" height="30%">
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="35%" height="30%">
 
 
 <a href="https://github.com/muskanrani/github-readme-stats">
