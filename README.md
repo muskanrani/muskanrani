@@ -11,8 +11,4 @@
       <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
 <a href="https://www.linkedin.com/in/muskan-rani-980553188/">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" height="10%" ; width="15%" ; margin-left:20px;></img></a>
-- ⚡ Fun fact: 
-        <br>    Studying is my drug.
-     <br>  But thank god I say no to drugs.<div align='center'>
-        ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
