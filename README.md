@@ -7,3 +7,4 @@
 <a href="https://www.linkedin.com/in/muskan-rani-980553188/"><img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" height="10%" ; width="15%" ; margin-left:20px;></img></a>
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
