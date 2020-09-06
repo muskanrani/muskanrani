@@ -8,4 +8,4 @@
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
-[![HitCount](http://hits.dwyl.com/muskanrani/muskanrani.svg)](http://hits.dwyl.com/muskanrani/muskanrani)
+<!--[![HitCount](http://hits.dwyl.com/muskanrani/muskanrani.svg)](http://hits.dwyl.com/muskanrani/muskanrani)-->
