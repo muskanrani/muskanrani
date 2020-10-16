@@ -8,5 +8,4 @@
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
-<!--[![HitCount](http://hits.dwyl.com/muskanrani/muskanrani.svg)](http://hits.dwyl.com/muskanrani/muskanrani)-->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
