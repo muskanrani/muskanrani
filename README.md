@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
-<h2> Connect with me on </h2>
+<h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
