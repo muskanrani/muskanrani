@@ -10,6 +10,11 @@
 <a href="https://twitter.com/_muskan_gupta_" target="_blank">
 <img src="https://img.shields.io/badge/Twitter--blue" />
 </a>
+</a> 
+<a href="https://www.youtube.com/channel/UCqY8LGQHnSCbtgiNg4I0sDA" target="_blank">
+<img src="https://img.shields.io/badge/YouTube--blue" />
+</a>
+
 <br/> 
 
 <h2> Github Stats </h2> 
